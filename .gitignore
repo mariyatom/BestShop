@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+RequireNoAuthAttribute.cs
+EmailSender.cs
+RequireAuthAttribute.cs
