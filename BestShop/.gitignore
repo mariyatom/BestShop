@@ -1,0 +1,45 @@
+# Build results
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Core specific
+wwwroot/lib/
+wwwroot/node_modules/
+
+# Logs and database files
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# Environment & secrets
+.env
+.env.*
+secrets.json
+
+# dotnet watch files
+**/*.dotnetwatch.json
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# npm packages (if using frontend JS)
+node_modules/
+
+# Publish output (optional if using publish locally)
+publish/
