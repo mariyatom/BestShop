@@ -10,5 +10,5 @@
 => git push orgin main   (or) git push origin branch name.
 => git log
 
-### Add contacts inforomation using the contact page ie, messages sent and saved in DB
-### Listing all received messages by admin ie, if we loggined as admin, we can see all received messages.
+1.  Add contacts inforomation using the contact page ie, messages sent and saved in DB
+2.  Listing all received messages by admin ie, if we loggined as admin, we can see all received messages.
