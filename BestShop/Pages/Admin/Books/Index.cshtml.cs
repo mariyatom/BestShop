@@ -10,6 +10,7 @@ namespace BestShop.Pages.Admin.Books
     public class IndexModel : PageModel
     {
         public List<BookInfo> listBooks = new List<BookInfo>();
+
         public string search = "";
 
         public int page = 1; // the current html page
