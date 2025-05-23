@@ -2,8 +2,8 @@ using BestShop.MyHelpers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Data.SqlClient;
 using System.ComponentModel.DataAnnotations;
-using System.Data.SqlClient;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace BestShop.Pages.Admin.Books
